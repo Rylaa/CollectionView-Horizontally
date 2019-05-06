@@ -1,0 +1,27 @@
+{
+  "Mac" : [
+    {
+      "name" : "TinyConstraints",
+      "hash" : "145711f69f02d6a3ecd6fb068280521368e45d039b0dd6cd9e8c84881ca047b3",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "TinyConstraints",
+      "hash" : "a5c453dbc64acb9a01cb6acdc7b5b5d0db82dc66a90fc32ca85bb8f7521ef731",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ],
+  "commitish" : "4.0.0",
+  "iOS" : [
+    {
+      "name" : "TinyConstraints",
+      "hash" : "982bb8ea3e8f73da55765d4918b07c410025aefe09d90a3043529b054c950279",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}
